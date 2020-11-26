@@ -21,4 +21,4 @@ RUN pip install --no-cache-dir \
   xgboost==1.2.1 \
   fbprophet==0.7.1 \
   pandasql==0.7.3 \
-  pmdarima==1.7.1
+  https://github.com/alkaline-ml/pmdarima/archive/c5e4df3bf9a20ea1197d593ed44b17f5a764116c.tar.gz
