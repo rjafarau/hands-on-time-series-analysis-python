@@ -11,5 +11,5 @@ RUN pip install --no-cache-dir \
 RUN pip install --no-cache-dir \
   pandasql==0.7.3 \
   xgboost==1.3.3 \
-  sktime[all_extras]==0.5.2
+  sktime[all_extras]==0.5.3
   
